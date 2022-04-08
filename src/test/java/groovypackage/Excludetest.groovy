@@ -1,0 +1,5 @@
+package groovypackage
+
+@interface Excludetest {
+
+}
